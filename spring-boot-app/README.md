@@ -10,7 +10,7 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git clone https://github.com/iam-chaitu/Java-maven-CICD/main/spring-boot-app.git
+git clone https://github.com/iam-chaitu/Java-maven-CICD.git
 cd Java-maven-CICD/sprint-boot-app
 ```
 
